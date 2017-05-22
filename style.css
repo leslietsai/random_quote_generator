@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600');
+p {
+  color: white;
+  font-size: 200%;
+  vertical-align:middle;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 120%;
+  
+}
+.quote-box {
+  padding: 25%;
+}
+
+.page{
+  position: relative;
+}
